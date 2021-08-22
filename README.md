@@ -1,6 +1,6 @@
 - Hi, I’m Ram Kishan Choudhary
 - I’m interested in cyber security, trekking, riding bike, documentaries, and ofcourse programming.
-- I’m currently working at Samsung R & D in Android Framework and Kernel Security Team.
+- I’m currently working at Samsung R & D in KNOX Security for Enterprise Team.
 - Beside Cyber Security youcan also reach me to know about must visiting travel destinations around the world.
 - https://leetcode.com/_r_k_choudhary_/
 
